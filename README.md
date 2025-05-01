@@ -5,17 +5,19 @@
 
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4BF700&width=435&lines=I+am+Aspiring+ML+Engineer.++%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Nice+to+e-meet+you.+%F0%9F%98%89" alt="Typing SVG" /></a> </p>
 
-<p align="center"> 🌱 I’m currently learning **Deep Learning & Financial Computing** </p>
+<h3 align="left"> Let me tell you a bit about myself Cool doge emoji </h3>
 
-<p align="center"> 👯 I’m looking to collaborate on **Machine learning, AI projects, Finance Projects** </p>
+🌱 I’m currently learning **Deep Learning & Financial Computing**
 
-<p align="center"> 🤝 I’m looking for help with **Summer 2025 Internships / Full time Job in United States of America.** </p>
+👯 I’m looking to collaborate on **Machine learning, AI projects, Finance Projects**
 
-<p align="center"> 👨‍💻 All of my projects are available at [https://yugantgajera.github.io/Portfolio/](https://yugantgajera.github.io/Portfolio/) </p>
+🤝 I’m looking for help with **Summer 2025 Internships / Full time Job in United States of America.**
 
-<p align="center"> 📫 How to reach me **Yugantgajera7@gmail.com** </p>
+👨‍💻 All of my projects are available at [https://yugantgajera.github.io/Portfolio/](https://yugantgajera.github.io/Portfolio/)
 
-<p align="center"> 📄 Know about my experiences [https://drive.google.com/file/d/1NSlgpbQzgsQcRzx8krZU3MDePomCM9uX/view](https://drive.google.com/file/d/1NSlgpbQzgsQcRzx8krZU3MDePomCM9uX/view) </p>
+📫 How to reach me **Yugantgajera7@gmail.com**
+
+📄 Know about my experiences [https://drive.google.com/file/d/1NSlgpbQzgsQcRzx8krZU3MDePomCM9uX/view](https://drive.google.com/file/d/1NSlgpbQzgsQcRzx8krZU3MDePomCM9uX/view)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
