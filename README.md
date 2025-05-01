@@ -8,9 +8,7 @@
 <h3 align="left"> Let me tell you a bit about myself. </h3>
 
 -🌱 I’m currently learning **Deep Learning & Financial Computing**
-
 -👯 I’m looking to collaborate on **Machine learning, AI projects, Finance Projects**
-
 -🤝 I’m looking for help with **Summer 2025 Internships / Full time Job in United States of America.**
 
 -🌌 Ask me about anything, I am happy to help :)
