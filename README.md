@@ -5,19 +5,25 @@
 
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4BF700&width=435&lines=I+am+Aspiring+ML+Engineer.++%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Nice+to+e-meet+you.+%F0%9F%98%89" alt="Typing SVG" /></a> </p>
 
-<h3 align="left"> Let me tell you a bit about myself Cool doge emoji </h3>
+<h3 align="left"> Let me tell you a bit about myself. </h3>
 
-🌱 I’m currently learning **Deep Learning & Financial Computing**
+-🌱 I’m currently learning **Deep Learning & Financial Computing**
 
-👯 I’m looking to collaborate on **Machine learning, AI projects, Finance Projects**
+-👯 I’m looking to collaborate on **Machine learning, AI projects, Finance Projects**
 
-🤝 I’m looking for help with **Summer 2025 Internships / Full time Job in United States of America.**
+-🤝 I’m looking for help with **Summer 2025 Internships / Full time Job in United States of America.**
 
-👨‍💻 All of my projects are available at [https://yugantgajera.github.io/Portfolio/](https://yugantgajera.github.io/Portfolio/)
+-🌌 Ask me about anything, I am happy to help :)
 
-📫 How to reach me **Yugantgajera7@gmail.com**
+-😄 Pronouns: He/Him 
 
-📄 Know about my experiences [https://drive.google.com/file/d/1NSlgpbQzgsQcRzx8krZU3MDePomCM9uX/view](https://drive.google.com/file/d/1NSlgpbQzgsQcRzx8krZU3MDePomCM9uX/view)
+-👨‍💻 All of my projects are available at [https://yugantgajera.github.io/Portfolio/](https://yugantgajera.github.io/Portfolio/)
+
+-📫 How to reach me **Yugantgajera7@gmail.com**
+
+-⚡ Hobbies: I play Football ⚽ and I love to trekking 🧗 and exploring new things 🪂.
+
+-📄 Know about my experiences [https://drive.google.com/file/d/1NSlgpbQzgsQcRzx8krZU3MDePomCM9uX/view](https://drive.google.com/file/d/1NSlgpbQzgsQcRzx8krZU3MDePomCM9uX/view)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
