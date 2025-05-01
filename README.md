@@ -25,10 +25,6 @@
 
 -📄 Know about my experiences [https://drive.google.com/file/d/1NSlgpbQzgsQcRzx8krZU3MDePomCM9uX/view](https://drive.google.com/file/d/1NSlgpbQzgsQcRzx8krZU3MDePomCM9uX/view)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 </p>
 
 <h3 align="left">Connect with me:</h3>
