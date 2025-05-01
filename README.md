@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yugantgajera&label=Profile%20views&color=0e75b6&style=flat" alt="yugantgajera" /> </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4BF700&width=435&lines=I+am+an+Aspiring+Machine+Learning+Engineer.++%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Let's+Meet+on+the+e-coffee.+%E2%98%95" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4BF700&width=435&lines=I+am+Aspiring+ML+Engineer.++%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Nice+to+E-Meet+you.+%F0%9F%98%89" alt="Typing SVG" /></a>
 
 - 🌱 I’m currently learning **Deep Learning & Financial Computing**
 
