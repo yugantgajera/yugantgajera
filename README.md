@@ -40,8 +40,6 @@
 <a href="https://fb.com/100004581377107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100004581377107" height="30" width="40" /></a>
 <a href="https://instagram.com/iam.yugant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam.yugant" height="30" width="40" /></a>
 <a href="https://medium.com/@yugantgajera7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yugantgajera7" height="30" width="40" /></a>
-<a href="https://discord.gg/yugantgajera_31872" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yugantgajera_31872" height="30" width="40" /></a>
-<a href="/https://rss.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rss.com/" height="30" width="40" /></a>
 </p>
 </p>
 
